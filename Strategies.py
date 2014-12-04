@@ -11,7 +11,7 @@ class Strategy:
         
         pass
     
-    def RunningStrategyOnBar(self):
+    def RunningStrategyOnBar(self, data):
         
         pass
 
